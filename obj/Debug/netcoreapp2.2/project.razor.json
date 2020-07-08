@@ -2986,8 +2986,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cthulhu/Documents/Dojo/JobAppTracker/Views/JobTracker/Dashboard.cshtml",
-      "TargetPath": "Views\\JobTracker\\Dashboard.cshtml",
+      "FilePath": "/Users/cthulhu/Documents/Dojo/JobAppTracker/Views/JobAppTracker/Dashboard.cshtml",
+      "TargetPath": "Views\\JobAppTracker\\Dashboard.cshtml",
       "FileKind": "mvc"
     },
     {
